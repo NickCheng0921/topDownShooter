@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/9_mm_gunshot.ogg-fb7cc2dc9c646b6676f4b72871820e16.oggstr"
+
+[deps]
+
+source_file="res://Sprites/9_mm_gunshot.ogg"
+dest_files=[ "res://.import/9_mm_gunshot.ogg-fb7cc2dc9c646b6676f4b72871820e16.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
