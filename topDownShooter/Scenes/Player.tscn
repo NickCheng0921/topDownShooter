@@ -54,6 +54,7 @@ script = ExtResource( 1 )
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
 shape = SubResource( 1 )
+one_way_collision = true
 
 [node name="characterSprite" type="Sprite" parent="."]
 position = Vector2( 17.8319, 1.62108 )
